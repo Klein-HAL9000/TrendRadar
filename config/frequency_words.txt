@@ -26,11 +26,6 @@ DJI
 黑神话
 冯骥
 
-影之刃零
-梁其伟
-
-哪吒
-饺子
 杨宇
 !车
 !餐
@@ -81,6 +76,21 @@ ios
 ai
 !gai
 人工智能
+
+vibecoding
+n8n
+claudecode
+cursor
+
+ai知识库
+obsidian
+
+ai医疗
+ai医疗政策
+
+ai视频
+midjourney
+veo3
 
 自动驾驶
 
